@@ -1,7 +1,6 @@
-# Flash-a-card-An-Interactive-Flashcard-Quiz-Website-for-Student-Review
-# Flash-a-card
+# Flash-a-card: An-Interactive Flashcard-Quiz Website for Student Review
 
-An interactive flashcard quiz website designed to help students review and retain knowledge efficiently.
+An interactive flashcard quiz website designed to help students review and retain knowledge efficiently using flashcards.
 
 ## What it does
 - Presents quiz questions as flashcards  
@@ -17,7 +16,12 @@ An interactive flashcard quiz website designed to help students review and retai
 2. Answer the flashcard questions  
 3. Review explanations and retry wrong answers
 
-## License
-MIT License
+## Creators
+RAFAEL, Zya Kynder Tarhata B.
+LAURINO, Justine Matthew B.
+DE GUZMAN, Alessandra Fiona M.
 
----
+# For any concerns, feel free to contact us through our emails
+zbrafael@carc.pshs.edu.ph
+jblaurino@carc.pshs.edu.ph
+amdeguzman@carc.pshs.edu.ph
