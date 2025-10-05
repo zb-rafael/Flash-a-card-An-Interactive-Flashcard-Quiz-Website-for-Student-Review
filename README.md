@@ -17,9 +17,9 @@ An interactive flashcard quiz website designed to help students review and retai
 3. Review explanations and retry wrong answers
 
 ## Creators
-RAFAEL, Zya Kynder Tarhata B.
-LAURINO, Justine Matthew B.
-DE GUZMAN, Alessandra Fiona M.
+- RAFAEL, Zya Kynder Tarhata B.
+- LAURINO, Justine Matthew B.
+- DE GUZMAN, Alessandra Fiona M.
 
 # For any concerns, feel free to contact us through our emails
 zbrafael@carc.pshs.edu.ph
